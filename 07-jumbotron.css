@@ -8,12 +8,12 @@
 
 .jumbotron .container {
   position: relative;
-  top:100px;
+  top:150px;
 }
 
 .jumbotron h1 {
-  color: #fff;
-  font-size: 55px;  
+  color: #f00;
+  font-size: 75px;  
   font-family: 'Rock Salt', cursive;
 }
 
